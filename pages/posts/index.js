@@ -2,4 +2,4 @@ function AllPostsPage() {
     return;
 }
   
-  export default ContactPage;
+  export default AllPostsPage;
